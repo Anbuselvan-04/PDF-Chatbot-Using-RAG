@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+PyPDF2
+sentence-transformers
+faiss-cpu
+numpy
+torch
+transformers
+scikit-learn
+scipy
+tqdm
+huggingface-hub
